@@ -20,7 +20,7 @@ Passionné par le développement web, j'aime créer des solutions innovantes et 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/endpoint?url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FNeon&style=social&logoColor=green)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)   
 
 ### Mobile & Desktop
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
