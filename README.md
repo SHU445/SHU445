@@ -1,8 +1,8 @@
-# 👋 Salut, je suis Yanis !
+# 👋 Salut, je suis Ryse !
 
 ## 🚀 Développeur Full-Stack & Créateur d'Applications
 
-Passionné par le développement web et mobile, j'aime créer des solutions innovantes et des expériences utilisateur exceptionnelles. Toujours en quête de nouveaux défis techniques !
+Passionné par le développement web, j'aime créer des solutions innovantes et des expériences utilisateur.  [ En quête de nouveaux défis techniques ]
 
 ---
 
