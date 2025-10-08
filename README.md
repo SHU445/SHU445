@@ -31,11 +31,11 @@ Passionné par le développement web, j'aime créer des solutions innovantes et 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yanis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanis&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryse&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanis&theme=tokyonight&hide_border=true" alt="Série de contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryse&theme=tokyonight&hide_border=true" alt="Série de contributions" />
 </div>
 
 ---
