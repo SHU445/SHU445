@@ -23,7 +23,7 @@ Passionné par le développement web, j'aime créer des solutions innovantes et 
 
 ### Outils & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -45,21 +45,9 @@ Passionné par le développement web, j'aime créer des solutions innovantes et 
 
 ### 🏋️ Calisthenie App Track
 > Application mobile pour suivre les progrès en calisthénie
-- **Tech:** React Native, Firebase, Redux
-- **Features:** Tracking d'exercices, statistiques, plans d'entraînement
-- **Status:** 🚀 En développement actif
-
-### 📊 Dashboard LaTeX
-> Interface de visualisation de données avec génération de rapports LaTeX
-- **Tech:** React, Node.js, LaTeX, Chart.js
-- **Features:** Graphiques interactifs, export PDF, templates personnalisables
-- **Status:** ✅ Terminé
-
-### 🎮 Jeu de Go
-> Implémentation du jeu de Go avec IA
-- **Tech:** Python, Pygame, Algorithmes de minimax
-- **Features:** Interface graphique, IA adversaire, sauvegarde de parties
-- **Status:** ✅ Terminé
+- **Tech:** Next.js -> Typescript, Tailwind CSS, Zustand, Heroicons, Chart.js, Neon db
+- **Features:** Tracking d'exercices, statistiques, suivis d'entraînement
+- **Status:** En développement actif
 
 ### 📝 Terminal Note
 > Éditeur de texte en ligne de commande
