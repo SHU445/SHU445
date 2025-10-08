@@ -44,7 +44,7 @@ Passionné par le développement web, j'aime créer des solutions innovantes et 
 ## Projets Récents
 
 ### Calisthenie App Track
-> Application mobile pour suivre les progrès en calisthénie
+> Application web de suivis de progrès en sport
 - **Tech:** Next.js -> Typescript, Tailwind CSS, Zustand, Heroicons, Chart.js, Neon db
 - **Features:** Tracking d'exercices, statistiques, suivis d'entraînement
 - **Status:** En développement actif
