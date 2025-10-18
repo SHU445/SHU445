@@ -1,6 +1,6 @@
 # Ryse
 
-## Développeur Full-Stack & Créateur d'Applications
+## Développeur Full-Stack
 
 Passionné par le développement web, j'aime créer des solutions innovantes et des expériences utilisateur.  [ En quête de nouveaux défis techniques ]
 
