@@ -1,8 +1,8 @@
 # Ryse
 
-## Développeur Full-Stack
+## Développeur :
 
-Passionné par le développement web, j'aime créer des solutions innovantes et des expériences utilisateur.  [En quête de nouveaux défis techniques]
+Passionné par le développement web.
 
 ---
 
@@ -48,18 +48,6 @@ Passionné par le développement web, j'aime créer des solutions innovantes et 
 - **Tech:** Next.js -> Typescript, Tailwind CSS, Zustand, Heroicons, Chart.js, Neon db
 - **Features:** Tracking d'exercices, statistiques, suivis d'entraînement
 - **Status:** En développement actif
-
-### Ryse portfolio
-> Portfolio de développeur
-- **Tech:** Next.js, Typescript, Tailwind CSS, React Hook Form, Lucid React, shadcn/ui
-- **Features:** Présentation de profil, Contact par mail et formulaire, lien vers réseaux
-- **Status:** ✅ Terminé
-
----
-## Objectifs en cours
-
-- [ ] Créer une **SaaS** complète
-- [ ] Travail sur les certification **AWS**
 
 ---
 
