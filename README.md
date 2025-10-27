@@ -28,18 +28,6 @@ Passionné par le développement web.
 
 ---
 
-## Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryse&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryse&theme=tokyonight&hide_border=true" alt="Série de contributions" />
-</div>
-
----
-
 ## Projets Récents
 
 ### Calisthenie App Track
@@ -48,7 +36,6 @@ Passionné par le développement web.
 - **Features:** Tracking d'exercices, statistiques, suivis d'entraînement
 - **Status:** En développement actif
 
----
 
 ## Me Contacter
 
@@ -59,10 +46,6 @@ Passionné par le développement web.
 
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ryse&style=for-the-badge&color=blue" alt="Vues du profil" />
-  
-  **Merci d'avoir visité mon profil !** ⭐
 </div>
