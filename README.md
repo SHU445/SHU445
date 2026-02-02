@@ -1,8 +1,6 @@
 # Ryse
 
-## Développeur :
-
-Passionné par le développement web.
+##     - Dev WEB -
 
 ---
 
@@ -31,17 +29,16 @@ Passionné par le développement web.
 ## Projets Récents
 
 ### Calisthenie App Track
-> Application web de suivis de progrès en sport
+> Application web de tracking sport
 - **Tech:** Next.js -> Typescript, Tailwind CSS, Zustand, Heroicons, Chart.js, Neon db
 - **Features:** Tracking d'exercices, statistiques, suivis d'entraînement
 - **Status:** En développement actif
 
 
-## Me Contacter
+## - Contact -
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ryse-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanismorel382008@gmail.com)
 
 </div>
